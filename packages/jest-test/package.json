@@ -1,0 +1,6 @@
+{
+  "testDirectoryName":"tests",
+  "scripts": {
+    "test": "jest"
+  }
+}

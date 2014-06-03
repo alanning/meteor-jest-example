@@ -1,0 +1,9 @@
+{
+  "name": "jest-test",
+  "description": "Jest + Meteor test package",
+  "homepage": "https://github.com/alanning/meteor-jest-example",
+  "author": "Adrian Lanning <alanning@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/alanning/meteor-jest-example",
+  "packages": { }
+}
